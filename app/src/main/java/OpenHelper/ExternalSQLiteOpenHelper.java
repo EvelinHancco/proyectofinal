@@ -1,0 +1,4 @@
+package OpenHelper;
+
+class ExternalSQLiteOpenHelper {
+}
